@@ -148,7 +148,7 @@ class Ui_MainWindow(object):
         MainWindow.setObjectName("MainWindow")
         MainWindow.setFixedSize(685, 480)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("/home/aperricio/Documentos/Desarrollo-y-programacion/Python/python-ppa/aplicaciones/img/clipyq.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon.addPixmap(QtGui.QPixmap("img/clipyq.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         MainWindow.setWindowIcon(icon)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
