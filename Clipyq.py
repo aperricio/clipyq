@@ -64,7 +64,7 @@ def realizar_conversion():
                     try:
                         proceso = subprocess.Popen(["magick", archivo, *lista_conversiones, carpeta_destino+nombre_archivo])
                     except FileNotFoundError:
-                        proceso = subprocess.Popen(["magick", archivo, *lista_conversiones, carpeta_destino+nombre_archivo])
+                        proceso = subprocess.Popen(["convert", archivo, *lista_conversiones, carpeta_destino+nombre_archivo])
             proceso.wait()
             if proceso.returncode == 1:
                 resultado = "fallo"
