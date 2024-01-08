@@ -32,6 +32,8 @@ También es necesario [Imagemagick](https://imagemagick.org/script/download.php)
 * Posibilidad de añadir carpetas completas.
 * Posibilidad de indicar carpeta de destino.
 
+La interfaz está en español, pero todo tiene su apartado para la traducción.
+
 ## Capturas
 
 ![Captura en Plasma](img/capturas/Captura.png)
