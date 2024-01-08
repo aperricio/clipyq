@@ -2105,7 +2105,7 @@ class Ui_MarcaAgua(Ui_MainWindow, object):
                 marcaAguaButton.setText("Marca de\nagua\n\n← " +ejex+ejey+ "\nOpacidad:\n" + str(self.spinBoxOpacidad.value()) + "%")
             elif self.pushButtonCentro.isChecked():
                 posicion = "center"
-                marcaAguaButton.setText("Marca de\nagua\n\nCentro " +ejex+ejey+ "\nOpacidad:\n" + str(self.spinBoxOpacidad.value()) + "%")
+                marcaAguaButton.setText("Marca de\nagua\n\n⊙ " +ejex+ejey+ "\nOpacidad:\n" + str(self.spinBoxOpacidad.value()) + "%")
             elif self.pushButtonDerecha.isChecked():
                 posicion = "east"
                 marcaAguaButton.setText("Marca de\nagua\n\n→ " +ejex+ejey+ "\nOpacidad:\n" + str(self.spinBoxOpacidad.value()) + "%")
