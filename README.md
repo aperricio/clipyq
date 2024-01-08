@@ -36,7 +36,11 @@ La interfaz está en español, pero todo tiene su apartado para la traducción.
 
 ## Capturas
 
+### Plasma
+
 ![Captura en Plasma](img/capturas/Captura.png)
+
+### GNOME
 
 <p align="center"><img src="img/capturas/captura2.png" alt="captura en GNOME"></p>
 
