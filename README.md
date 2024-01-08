@@ -35,3 +35,5 @@ También es necesario [Imagemagick](https://imagemagick.org/script/download.php)
 
 ![Captura en Plasma](img/capturas/Captura.png)
 
+<p align="center"><img src="img/capturas/captura2.png"></p>
+
