@@ -1,6 +1,7 @@
 # Clipyq
 
 <p align="center"><img style="max-width: 300px" src="img/clipyq.png"> </p>
+
 Clipyq son las siglas de <b>C</b>onversor por <b>L</b>otes de <b>I</b>mágenes, en <b>P</b>ython <b>y</b> <b>Q</b>t. Ahí se explicaría gran parte de lo que es este programa.
 
 La idea fue crear una herramienta propia para convertir imágenes por lotes, y para ello me fijé en la extensión [BIMP](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) para GIMP. Sólo la interfaz, y lo que empezó como una prueba terminó en una aplicación bastante avanzada.
