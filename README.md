@@ -6,7 +6,7 @@ Clipyq son las siglas de <b>C</b>onversor por <b>L</b>otes de <b>I</b>mágenes, 
 
 La idea fue crear una herramienta propia para convertir imágenes por lotes, y para ello me fijé en la extensión [BIMP](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) para GIMP. Sólo la interfaz, y lo que empezó como una prueba terminó en una aplicación bastante avanzada.
 
-<u>Es básicamente un *frontend* para Imagemagick.</u> 
+Es básicamente un *frontend* para Imagemagick. 
 
 ## Requisitos
 
